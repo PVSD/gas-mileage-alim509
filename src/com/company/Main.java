@@ -12,6 +12,6 @@ public class Main {
 
         double fuel_left = myBmw.reportFuel( );
 
-        System.out.println(fuel_left); //prints gallons left,
+        System.out.println(fuel_left);
     }
 }
